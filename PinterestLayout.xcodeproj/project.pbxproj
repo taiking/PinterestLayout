@@ -255,7 +255,7 @@
 					B5AFCBA61F0BB16F00CB71B5 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = SWXVWAU9H9;
-						LastSwiftMigration = 0830;
+						LastSwiftMigration = 1010;
 						ProvisioningStyle = Automatic;
 					};
 					B5CF9EDA1F0BB19500DAA3B7 = {
@@ -482,7 +482,8 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -503,7 +504,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.magiclab.PinterestLayout;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
